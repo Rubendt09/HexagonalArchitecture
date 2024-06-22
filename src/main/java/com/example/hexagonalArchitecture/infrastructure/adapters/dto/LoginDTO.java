@@ -1,5 +1,7 @@
 package com.example.hexagonalArchitecture.infrastructure.adapters.dto;
 
+import jakarta.persistence.Entity;
+
 public class LoginDTO {
     private String dni;
     private String password;
